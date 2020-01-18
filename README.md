@@ -5,7 +5,7 @@
 Udacity-PDSND-Project(Bikeshare)
 
 ### Description
-Analyzing and finding insights using python on US Bikeshare data which was collection from three different states.
+Analyzing and finding insights using python on US Bikeshare data which was collected from three different states.
 
 
 

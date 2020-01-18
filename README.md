@@ -1,15 +1,11 @@
 ### Date created
-18 Jan 2020
+24 DEC 2019
 
 ### Project Title
 Udacity-PDSND-Project(Bikeshare)
 
 ### Description
-Describe what your project is about and what it does
+Analyzing and finding insights using python on US Bikeshare data which was collection from three different states.
 
-### Files used
-Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 

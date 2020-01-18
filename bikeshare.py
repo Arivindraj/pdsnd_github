@@ -42,6 +42,9 @@ def get_city():
     return city
 
 def get_filter():
+    '''
+    This function is used to filter the data
+    '''
     
     period_filter = input('\nWould you like to filter the data by month, day of the month, day of the week, or not at all? Please type "no" if you prefer not at all.\n')
     period_filter = period_filter.lower()

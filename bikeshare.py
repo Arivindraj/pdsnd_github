@@ -42,6 +42,9 @@ def get_city():
     return city
 
 def get_filter():
+    '''
+    This function is used to filter the data
+    '''
     
     period_filter = input('\nWould you like to filter the data by month, day of the month, day of the week, or not at all? Please type "no" if you prefer not at all.\n')
     period_filter = period_filter.lower()
@@ -74,7 +77,10 @@ def month_info(m):
     else:
         return 'none'
 # Asks the user for a month and a day of month,
-def month_day_info(df, day_m):     
+def month_day_info(df, day_m): 
+    '''
+    This function will ask the user for a month and a day of month
+    '''    
     month_day = []
     if day_m == "day_of_month":
         month = month_info("month")
